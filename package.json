@@ -1,0 +1,28 @@
+{
+  "name": "@digibear/rhost-rest",
+  "version": "1.0.0",
+  "description": "A RESTFUL interface for the RhostMUSH server.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [
+    "RhostMUSH",
+    "Mush",
+    "Trello"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@digibear/rhost-wrapper": "file:../rhost-api-wrapper",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "moment": "^2.24.0",
+    "momentjs": "^2.0.0",
+    "node-fetch": "^2.6.0",
+    "trello": "^0.10.0",
+    "yaml": "^1.7.2"
+  },
+  "devDependencies": {}
+}
