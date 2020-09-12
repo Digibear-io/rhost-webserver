@@ -20,7 +20,7 @@
     "helmet": "^3.21.2",
     "moment": "^2.24.0",
     "momentjs": "^2.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "trello": "^0.10.0",
     "yaml": "^1.7.2"
   },
